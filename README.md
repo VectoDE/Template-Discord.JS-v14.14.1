@@ -1,19 +1,17 @@
-# Discord.js v14 and Express.js Template
+# Discord Bot Dashboard Template
 
-This repository contains a template for developing Discord bots using Discord.js v14 and Express.js for implementing web server functionalities.
+This repository contains a template for developing Discord bot dashboards using HTML, CSS, and JavaScript.
 
 ## Features
 
-- Integrates Discord.js v14 for Discord bot development.
-- Utilizes Express.js for creating web servers.
 - Well-documented and easy to use.
 - Includes sample code for common use cases.
 
 ## Instructions
 
 1. Clone the repository: `git clone https://github.com/vectode/your-repository.git`
-2. Install dependencies: `npm install`
-3. Customize the code as needed and start the bot: `node index.js`
+2. Customize the code as needed.
+3. Connect the dashboard to your Discord bot.
 
 ## Contribution
 
