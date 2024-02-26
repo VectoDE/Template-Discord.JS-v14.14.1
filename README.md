@@ -1,24 +1,24 @@
-# Discord.js v14 und Express.js Template
+# Discord.js v14 and Express.js Template
 
-Dieses Repository enthält ein Template für die Entwicklung von Discord-Bots mit Discord.js v14 und Express.js für die Implementierung von Webserver-Funktionalitäten.
+This repository contains a template for developing Discord bots using Discord.js v14 and Express.js for implementing web server functionalities.
 
-## Funktionen
+## Features
 
-- Integriert Discord.js v14 für die Discord-Bot-Entwicklung.
-- Nutzt Express.js für die Erstellung von Webservern.
-- Gut dokumentiert und einfach zu verwenden.
-- Beinhaltet Beispielcode für häufige Anwendungsfälle.
+- Integrates Discord.js v14 for Discord bot development.
+- Utilizes Express.js for creating web servers.
+- Well-documented and easy to use.
+- Includes sample code for common use cases.
 
-## Anleitung
+## Instructions
 
-1. Klonen Sie das Repository: `git clone https://github.com/vectode/dein-repository.git`
-2. Installieren Sie die Abhängigkeiten: `npm install`
-3. Passen Sie den Code nach Bedarf an und starten Sie den Bot: `node index.js`
+1. Clone the repository: `git clone https://github.com/vectode/your-repository.git`
+2. Install dependencies: `npm install`
+3. Customize the code as needed and start the bot: `node index.js`
 
-## Beitrag
+## Contribution
 
-Fühlen Sie sich frei, Beiträge vorzuschlagen oder Probleme zu melden, um dieses Template zu verbessern.
+Feel free to suggest contributions or report issues to improve this template.
 
-## Lizenz
+## License
 
-Dieses Projekt ist unter der MIT-Lizenz lizenziert - siehe die [LICENSE](LICENSE) Datei für weitere Details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for more details.
